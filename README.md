@@ -32,8 +32,8 @@ Open in Google Colab and **Run all**:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1omHxzvCRZI-sN9zcvGW2xdnCJ1OvsNNe?usp=sharing)
 
 **Inputs expected by the notebook** (edit paths in the first cells if needed):
-- **PDFs folder**: `/content/drive/MyDrive/Capstone project/pdfs`  
-- **LLaMA 2 model file**: `/content/drive/MyDrive/Capstone project/model/llama-2-7b-chat.ggmlv3.q4_0.bin`
+- **PDFs folder**: `/content/drive/MyDrive/pdfs`  
+- **LLaMA 2 model file**: `/content/drive/MyDrive/model/llama-2-7b-chat.ggmlv3.q4_0.bin`
 
 **API configuration (security‑first)**:  
 Create env vars instead of hardcoding secrets.
