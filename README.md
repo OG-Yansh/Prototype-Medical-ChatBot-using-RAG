@@ -1,4 +1,4 @@
-# 🩺 MedBot – AI‑powered Medical Chat Assistant
+# 🩺 RAGMedBot – AI‑powered Medical Chat Assistant
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1omHxzvCRZI-sN9zcvGW2xdnCJ1OvsNNe?usp=sharing)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
