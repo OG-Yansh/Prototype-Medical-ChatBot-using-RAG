@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-MedBot is an intelligent **medical chatbot** that leverages **LLaMA 2**, **LangChain**, and **Pinecone** to provide context‑aware answers from your medical PDFs. *(Scroll to the end of the Colab notebook to see the chat demo.)*
+RAGMedBot is an intelligent **medical chatbot** that leverages **LLaMA 2**, **LangChain**, and **Pinecone** to provide context‑aware answers from your medical PDFs. *(Scroll to the end of the Colab notebook to see the chat demo.)*
 
 ---
 
@@ -20,7 +20,7 @@ MedBot is an intelligent **medical chatbot** that leverages **LLaMA 2**, **LangC
 
 ## 📂 Project Structure
 ```
-├── MedBot_OG.ipynb         # Main notebook (Colab-friendly)
+├── _OG.ipynb         # Main notebook (Colab-friendly)
 ├── README.md               # Project documentation
 └── requirements.txt        # Python dependencies
 ```
